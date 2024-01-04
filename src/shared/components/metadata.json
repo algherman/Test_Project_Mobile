@@ -31,12 +31,13 @@
   "accessType": "private",
   "widgetsUsage": [
     {
-      "timestamp": "2024-01-04T11:26:06.660Z",
+      "timestamp": "2024-01-04T13:23:01.238Z",
       "action": "LATEST_SAVE",
       "usage": {
         "twx-view": 1,
         "twx-dt-view": 1,
         "twx-dt-model": 1,
+        "twx-dt-label": 1,
         "twx-overlay": 1,
         "twx-overlay-container": 5,
         "twx-button": 3,
