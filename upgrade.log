@@ -1,0 +1,34 @@
+[2023-12-19T14:22:46.729Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Begin upgrade of project
+[2023-12-19T14:22:46.730Z] info: [twx-studio:upgrade:Test_Project_Mobile] Upgrading project
+[2023-12-19T14:22:46.731Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Remove all the src-scaffold files from src
+[2023-12-19T14:22:46.733Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Deleting settings.path
+[2023-12-19T14:22:46.733Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Deleting settings.studioPath
+[2023-12-19T14:22:46.733Z] debug: [twx-studio:upgrade:Test_Project_Mobile] C:\Users\lgherman\Documents\VuforiaStudio\Projects\Test_Project_Mobile\src\shared\components\Data.json
+[2023-12-19T14:22:46.733Z] debug: [twx-studio:upgrade:Test_Project_Mobile] C:\Users\lgherman\Documents\VuforiaStudio\Projects\Test_Project_Mobile\src\shared\components\Device.json
+[2023-12-19T14:22:46.733Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Unable to migrate application parameters; none exist in project's appConfig.json.
+[2023-12-19T14:22:46.733Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Migrate service bindings for view
+[2023-12-19T14:22:46.733Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Updating bindings in view: 
+[2023-12-19T14:22:46.734Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Updating bindings in the Home json, file contents: {"attributes":{"twx-widget":"","viewtype":"ar","is-widget-container":"true"},"children":[{"name":"twx-container-content","children":[{"attributes":{"twx-widget":"","translation-key":"@ptc/ves-ar-extension:3D Container","is-widget-container":"true"},"name":"twx-dt-view","children":[{"name":"twx-container-content"}]},{"attributes":{"twx-widget":"","translation-key":"@ptc/ves-ar-extension:2D Overlay","is-widget-container":"true"},"name":"twx-overlay","children":[{"name":"twx-container-content","children":[{"attributes":{"twx-widget":"","translation-key":"@ptc/ves-ar-extension:Top Panel","position":"top","is-widget-container":"true"},"name":"twx-overlay-container","children":[{"name":"twx-container-content"}]},{"attributes":{"twx-widget":"","translation-key":"@ptc/ves-ar-extension:2D Body"},"name":"twx-overlay-body","children":[{"name":"twx-container-content","children":[{"attributes":{"twx-widget":"","translation-key":"@ptc/ves-ar-extension:Left Panel","position":"left","is-widget-container":"true"},"name":"twx-overlay-container","children":[{"name":"twx-container-content"}]},{"attributes":{"twx-widget":"","translation-key":"@ptc/ves-ar-extension:Center Panel","position":"center","is-widget-container":"true"},"name":"twx-overlay-container","children":[{"name":"twx-container-content"}]},{"attributes":{"twx-widget":"","translation-key":"@ptc/ves-ar-extension:Right Panel","position":"right","is-widget-container":"true"},"name":"twx-overlay-container","children":[{"name":"twx-container-content"}]}]}]},{"attributes":{"twx-widget":"","translation-key":"@ptc/ves-ar-extension:Bottom Panel","position":"bottom","is-widget-container":"true"},"name":"twx-overlay-container","children":[{"name":"twx-container-content"}]}]}]}]},{"name":"twx-view-data"}],"name":"twx-view"}
+[2023-12-19T14:22:46.734Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Unable to update the metadata.json file, the file was not found.
+[2023-12-19T14:22:46.735Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Unable to update the metadata.json file, it was not found at C:\Users\lgherman\Documents\VuforiaStudio\Projects\Test_Project_Mobile\src\shared\components\metadata.json
+[2023-12-19T14:22:46.736Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Contents of view before upgrading
+[2023-12-19T14:22:46.736Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Unable to update the metadata.json file, it was not found at C:\Users\lgherman\Documents\VuforiaStudio\Projects\Test_Project_Mobile\src\shared\components\metadata.json
+[2023-12-19T14:22:46.737Z] warn: [twx-studio:upgrade:Test_Project_Mobile] Wasn't able to migrate the data in
+[2023-12-19T14:22:46.737Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Cached device dimensions are obsolete and will be deleted:
+[2023-12-19T14:22:46.738Z] debug: [twx-studio:upgrade:Test_Project_Mobile] File not found during migration of handler to handler-path C:\Users\lgherman\Documents\VuforiaStudio\Projects\Test_Project_Mobile\src\shared\components\Data.json
+[2023-12-19T14:22:46.739Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Make sure there are not any stale files lying around
+[2023-12-19T14:22:46.740Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Create .gitignore for project dir
+[2023-12-19T14:22:46.741Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Copying /src/**/* to project, overwrite=false
+[2023-12-19T14:22:46.741Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2023-12-19T14:22:46.804Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Copy of project files complete
+[2023-12-19T14:22:46.804Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Updating version to 
+[2023-12-19T14:22:46.804Z] debug: [twx-studio:upgrade:Test_Project_Mobile] onupgrade sucessful, now build the project
+[2023-12-19T14:22:46.804Z] debug: [twx-studio:upgrade:Test_Project_Mobile] BEGIN buildApp
+[2023-12-19T14:22:46.804Z] debug: [twx-studio:upgrade:Test_Project_Mobile] write settings
+[2023-12-19T14:22:46.805Z] debug: [twx-studio:upgrade:Test_Project_Mobile] copy runtime extensions
+[2023-12-19T14:22:47.115Z] debug: [twx-studio:upgrade:Test_Project_Mobile] packageThemeSet
+[2023-12-19T14:22:48.848Z] debug: [twx-studio:upgrade:Test_Project_Mobile] onBuild
+[2023-12-19T14:22:48.848Z] info: [twx-studio:upgrade:Test_Project_Mobile] Building ves-ar-extension app:
+[2023-12-19T14:22:48.852Z] debug: [twx-studio:upgrade:Test_Project_Mobile] pathDir
+[2023-12-19T14:25:07.758Z] debug: [twx-studio:upgrade:Test_Project_Mobile] END buildApp
+[2023-12-19T14:25:07.758Z] debug: [twx-studio:upgrade:Test_Project_Mobile] Build succeeded.

@@ -1,0 +1,49 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "requires": [
+    "w320dp"
+  ],
+  "experiences": [
+    {
+      "vumark": "",
+      "experienceType": "vumark",
+      "id": 1,
+      "index-keys": [],
+      "title": {
+        "en": "Test Project Mobile"
+      },
+      "description": {
+        "en": "",
+        "en-US": ""
+      },
+      "requires": [
+        "AR-tracking"
+      ],
+      "tags": [],
+      "icon": "",
+      "viewName": "Home",
+      "url-template": "index.html?expId=1",
+      "entryPoint": "index.html?expId=1",
+      "thumbnail": ""
+    }
+  ],
+  "accessType": "private",
+  "widgetsUsage": [
+    {
+      "timestamp": "2024-01-04T11:26:06.660Z",
+      "action": "LATEST_SAVE",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 1,
+        "twx-overlay": 1,
+        "twx-overlay-container": 5,
+        "twx-button": 3,
+        "twx-overlay-body": 1,
+        "twx-panel": 1
+      }
+    }
+  ],
+  "designedfor": []
+}
