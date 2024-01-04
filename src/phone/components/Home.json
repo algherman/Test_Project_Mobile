@@ -100,7 +100,7 @@
                             "widget-id": "button-1",
                             "widget-name": "button-1",
                             "click-expression": "blink();",
-                            "text": "BLink"
+                            "text": "Blink"
                           },
                           "name": "twx-button"
                         },
